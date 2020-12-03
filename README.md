@@ -4,3 +4,5 @@
 - **Day 1 ❄️**: Finding entries in a list that equals 2020 and returning the sum.
 
 - **Day 2 ❄️**: Managing passwords and using strings to compare validity. 
+
+- **Day 3 ❄️**: Counting trees. 
