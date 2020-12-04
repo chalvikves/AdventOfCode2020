@@ -6,3 +6,5 @@
 - **Day 2 ❄️**: Managing passwords and using strings to compare validity. 
 
 - **Day 3 ❄️**: Counting trees. 
+
+- **Day 4 ❄️**: Managing passports and checking validity.
