@@ -8,3 +8,5 @@
 - **Day 3 ❄️**: Counting trees. 
 
 - **Day 4 ❄️**: Managing passports and checking validity.
+
+- **Day 5 ❄️**: Boarding pass and finding your seat.
